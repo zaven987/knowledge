@@ -1,0 +1,35 @@
+Linux skills
+Basic Command Line Usage:
+
+Learn basic commands like ls, cd, cp, mv, rm, and mkdir.
+Understand how to use the command line (terminal) for navigation and file management.
+Permissions:
+
+Understand file permissions (read, write, execute) and how to modify them using chmod, chown, and chgrp.
+Learn about root (superuser) privileges and how to use sudo.
+Package Management:
+
+Learn how to install, update, and remove software via package managers like apt (Ubuntu/Debian), dnf (Fedora), or yum (CentOS).
+File System Hierarchy:
+
+Understand the Linux file system structure (e.g., /home, /bin, /etc, /var, /tmp, /usr).
+Know where to find system files, configuration files, and user data.
+Shell Scripting:
+
+Learn basic shell scripting for task automation using bash (.sh) scripts.
+Familiarize yourself with variables, loops, and conditions in scripts.
+Networking Basics:
+
+Understand networking commands like ping, ifconfig/ip, netstat, ssh, and how to connect to remote servers.
+Text Editors:
+
+Get comfortable with terminal-based editors like nano, vim, or emacs for editing files.
+Processes and Task Management:
+
+Learn how to manage running processes with commands like ps, top, htop, kill, and how to background/foreground jobs (bg, fg).
+Logs and Troubleshooting:
+
+Know where to find logs (/var/log/) and how to use tools like dmesg or journalctl for system troubleshooting.
+Customization and Aliases:
+
+Understand how to customize the shell using .bashrc or .zshrc files and create aliases for frequently used commands.

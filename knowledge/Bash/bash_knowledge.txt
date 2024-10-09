@@ -1,0 +1,49 @@
+1. Basic Commands:
+File and Directory Management: ls, cd, pwd, mkdir, rmdir, cp, mv, rm, touch.
+Viewing and Editing Files: cat, less, more, head, tail, nano, vim.
+File Permissions: chmod, chown, chgrp.
+2. Process Management:
+Process Monitoring: ps, top, htop, jobs, kill, killall, bg, fg.
+Process Control: & (running commands in the background), nohup, disown.
+3. Shell Scripting:
+Variables: Defining and using variables.
+Control Structures: if, else, elif, for, while, case.
+Functions: Creating and invoking functions.
+Input/Output Redirection: >, >>, <, |.
+Command Substitution: Using backticks `command` or $(command) to capture command output.
+4. Text Processing:
+Search: grep, sed, awk.
+Text Manipulation: cut, sort, uniq, tr, wc.
+Regular Expressions: Using regex in tools like grep and sed.
+5. Package Management:
+Installing and Updating Software: apt, apt-get, yum, dnf, depending on the distribution.
+6. Networking:
+Checking Network Configuration: ifconfig, ip, ping, netstat, traceroute.
+File Transfers: scp, rsync, wget, curl.
+7. System Monitoring and Performance:
+Disk Usage: df, du.
+Memory Usage: free, vmstat.
+CPU Usage: mpstat.
+8. Security:
+User Management: adduser, deluser, passwd, usermod.
+File Permissions: umask, sudo, visudo.
+9. Environment Management:
+Environment Variables: export, env, .bashrc, .bash_profile.
+Aliases: Creating shortcuts for commands using alias.
+10. Version Control:
+Git Basics: git init, git clone, git add, git commit, git push, git pull, git branch, git merge.
+11. Automation:
+Cron Jobs: Scheduling tasks with crontab.
+Automation Scripts: Writing scripts to automate routine tasks.
+12. Advanced Topics:
+Bash Customization: .bashrc, .bash_profile, prompt customization.
+Shell Built-ins: echo, read, declare, source.
+Command History: history, !!, !n, Ctrl+R for reverse search.
+13. Utilities and Tools:
+Finding Files: find, locate.
+Archiving and Compression: tar, gzip, gunzip, zip, unzip.
+Debugging: bash -x, set -e.
+14. Miscellaneous:
+Keyboard Shortcuts: Ctrl+C (interrupt), Ctrl+Z (suspend), Ctrl+D (end of input).
+SSH: Remote access and key management (ssh, ssh-keygen).
+Bash Documentation: Accessing help (man, --help).
